@@ -1,0 +1,29 @@
+body {
+    background: #E3D8F1;
+    background-size: 100%;
+    min-height: 100vh;
+    font-family: sans-serif;
+    color: #E3D8F1;
+}
+
+.container {
+    background-color: #ac5589;
+    text-align: center;
+    max-width: 500px;
+    margin: auto;
+    margin-top: 5%;
+    padding-top: 1px;
+}
+
+.sarka__fotka {
+    max-width: 500px;
+}
+
+.description__sarka {
+    padding: 0px 10px 5% 10px;
+}
+
+.description {
+    padding: 0px 10px 0px 10px;
+}
+
